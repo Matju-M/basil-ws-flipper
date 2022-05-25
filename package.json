@@ -1,0 +1,22 @@
+{
+  "name": "basil-ws-flipper",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matthew Mangion"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@heap/react-native-heap": "^0.20.0",
+    "@types/lodash": "^4.14.182",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.18.0",
+    "lodash": "^4.17.21",
+    "react-native-flipper": "^0.146.1"
+  }
+}
