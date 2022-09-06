@@ -17,7 +17,7 @@ yarn add basil-ws-flipper react-native-flipper
 cd ios && pod install
 ```
 
-### Add the middleware into your redux store:
+### Add the middleware into your app:
 
 In React Native bootstrap add: 
 
