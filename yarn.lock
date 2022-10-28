@@ -566,10 +566,10 @@ react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-flipper@^0.146.0:
-  version "0.146.1"
-  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.146.1.tgz#b6bbb23edc347597788bdca4c89b58bad425e1a1"
-  integrity sha512-M3pjqDigOPRpPN9lkT3o0yKDViqciGe5aUjPrtuKdxmaCbH4ofpMEZGxrcKjnEwXJWKC24IDZKtz7WitaWgRig==
+react-native-flipper@^0.172.0:
+  version "0.172.0"
+  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.172.0.tgz#6755a6ecfb80eb482fb2c575ce35aecf7a471811"
+  integrity sha512-Cnveek6BXZDyLMoSQzatGs9T91O2X10CYXalqvwgqBTCXbDO6tpVZWg5JVLTiO/TsbdhIbKoxerijfJyezDWcQ==
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"
