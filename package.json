@@ -1,10 +1,16 @@
 {
   "name": "basil-ws-flipper",
-  "version": "0.2.8",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "license": "MIT",
   "author": {
-    "name": "Matthew Mangion"
+    "name": "Matthew Mangion",
+    "email": "mmangion@gmail.com"
+  },
+  "homepage": "https://github.com/Matju-M/basil-ws-flipper/blob/master/README.md",
+  "bugs": {
+    "email": "mmangion@gmail.com",
+    "url": "https://github.com/Matju-M/basil-ws-flipper/issues"
   },
   "keywords": [
     "flipper-plugin",
